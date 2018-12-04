@@ -3,7 +3,7 @@
 Introduction:
 ============
 
-	In this project we use pomegrante library to build a hidden Makrov model for parts of speecht tagging with universal dataset.
+	In this project we use pomegrante library to build a hidden Makrov model for parts of speech tagging with universal dataset.
 	
 
 Getting Started:
