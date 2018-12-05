@@ -1,0 +1,3 @@
+1.open matlab and change the directory to source code folder location
+2.Run recogui.m file
+3.then gui will be opened .
